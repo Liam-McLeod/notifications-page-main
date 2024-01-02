@@ -17,8 +17,8 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 
 ### Links
 
--  [Solution URL](https://www.frontendmentor.io/solutions/news-homepage-challenge-VN0iTidjW9)
--  [Live Site URL](https://liam-mcleod.github.io/news-homepage-main/)
+-  [Solution URL](https://www.frontendmentor.io/solutions/notification-page-beNDc45I5H)
+-  [Live Site URL](https://liam-mcleod.github.io/notifications-page-main/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
